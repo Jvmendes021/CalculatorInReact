@@ -1,3 +1,21 @@
+
+## Clone da calculadora do iphone
+<center>
+
+
+
+</center>
+
+## Tecnologias Utilizadas no projeto 
+
+- React
+
+## Links Úteis
+
+- ⭐Npm - https://www.npmjs.com/
+- ⭐React - https://reactjs.org/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
