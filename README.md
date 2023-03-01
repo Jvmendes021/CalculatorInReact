@@ -2,7 +2,7 @@
 ## Clone da calculadora do iphone
 <center>
 
-
+![Capturar](https://user-images.githubusercontent.com/94051879/222190310-9d154765-28f8-4129-9cba-d25d4aa3c30f.PNG)
 
 </center>
 
